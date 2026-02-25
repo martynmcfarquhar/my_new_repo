@@ -1,3 +1,3 @@
-# my_new_repo
+# My New Repo
 
 This is my new repo
